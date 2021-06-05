@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "Teste",
+      "name": "Teste2",
+      "price": "19.99",
+      "description": "Prato de teste2",
+      "available": true,
+      "id": 4
     }
   ]
 }
